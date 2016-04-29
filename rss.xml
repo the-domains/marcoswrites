@@ -2,16 +2,15 @@
     <channel>
         <title><![CDATA[Marcos Writes]]></title>
         <description><![CDATA[Marcos Writes]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/marcoswrites/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 17:50:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Apr 2016 18:16:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/marcoswrites/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8c81665-6ab1-4dd2-881f-77af493b98ec.jpg">]]></description>
-            <link>undefinedkeanu-opens-today-check-out-review/index.html</link>
+            <title><![CDATA['Keanu': More than a kitty-cat comedy]]></title>
+            <link>https://thegrid.ai/marcoswrites/keanu-opens-today-check-out-review/index.html</link>
             <guid isPermaLink="false">966d2145-d4a5-47ed-9ad9-8548b78bd031</guid>
-            <pubDate>Fri, 29 Apr 2016 17:50:11 GMT</pubDate>
+            <pubDate>Fri, 29 Apr 2016 18:16:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
