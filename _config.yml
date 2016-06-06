@@ -1,7 +1,7 @@
 name: MarcosWrites
 favicon: null
 layout_spectrum: 0.87329
-typography_spectrum: 0.86301
+typography_spectrum: 0.3261
 title: Marcos Writes
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#818590'
     - '#535959'
     - '#c0c1b1'
-  brandStrength: 0.4035076431464404
+  brandStrength: 0.75
   lightness: 0.3044551992788911
   saturation: 0.22479064762592316
   rhythmicContrast: 0.8170749724376947
