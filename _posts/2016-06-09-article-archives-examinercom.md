@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Examiner Archives
-datePublished: '2016-06-09T01:28:27.673Z'
-dateModified: '2016-06-09T01:28:27.478Z'
+datePublished: '2016-06-09T01:33:05.061Z'
+dateModified: '2016-06-09T01:33:04.906Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-09-article-archives-examinercom.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-09-article-archives-examinercom.md
 url: article-archives-examinercom/index.html
 _type: WebPage
 
