@@ -9,11 +9,11 @@ description: >-
   franchise and the "Harry Potter" series left behind. Legendary Pictures
   partners with Blizzard Entertainment to bring a fantasy film based on a 1994
   video game.
-datePublished: '2016-06-15T01:22:11.849Z'
-dateModified: '2016-06-15T01:17:41.809Z'
+datePublished: '2016-06-15T01:26:46.470Z'
+dateModified: '2016-06-15T01:26:29.815Z'
 title: '"Warcraft" delivers so-so fantasy'
 author:
-  - name: Image courtesy of Legendary Pictures
+  - name: ''
     url: ''
 sourcePath: _posts/2016-06-15-warcraft-delivers-so-so-fantasy.md
 authors: []
