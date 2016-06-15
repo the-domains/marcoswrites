@@ -1,20 +1,4 @@
-name: MarcosWrites
-favicon: null
-layout_spectrum: 0.74944
 typography_spectrum: 0.3261
-title: Marcos Writes
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#090909'
@@ -26,4 +10,23 @@ color:
   lightness: 0.3125
   saturation: 0.22479064762592316
   rhythmicContrast: 0.8170749724376947
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.74944
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Marcos Bernal-Salas
+  email: marcos@marcoswrites.com
+name: MarcosWrites
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Marcos Writes
 purpose: []
