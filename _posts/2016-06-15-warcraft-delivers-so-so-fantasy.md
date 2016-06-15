@@ -5,16 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '''Warcraft'' delivers so-so fantasy'
-datePublished: '2016-06-15T01:06:53.675Z'
-dateModified: '2016-06-15T01:06:48.649Z'
+datePublished: '2016-06-15T01:08:40.768Z'
+dateModified: '2016-06-15T01:07:00.749Z'
 title: ''
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-06-15-warcraft-delivers-so-so-fantasy.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-15-warcraft-delivers-so-so-fantasy.md
 url: warcraft-delivers-so-so-fantasy/index.html
 _type: Article
 
