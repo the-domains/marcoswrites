@@ -1,22 +1,26 @@
 ---
-description: '“The Purge: Election Year”: Tedious Thriller at Best'
-dateModified: '2016-06-29T16:56:53.637Z'
-datePublished: '2016-06-29T16:56:55.045Z'
-title: ''
+description: >-
+  Director James DeMonaco goes for the so-called political jugular in ‘The
+  Purge: Election Year’ on what is, yet another, much-anticipated sequel this
+  summer. In reality, the film is the third installment in The Purge film
+  series, but this new chapter brings back characters from 2014’s ‘Anarchy’ to
+  set things in motion.
+dateModified: '2016-06-29T17:04:09.984Z'
+datePublished: '2016-06-29T17:11:10.366Z'
+title: '‘The Purge Election Year’: Tedious Thriller at Best.'
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0813b72b-1835-40d3-91cc-18129b0e1d09.jpg
-starred: true
 sourcePath: _posts/2016-06-29-the-purge-election-year-tedious-thriller-at-best.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
+# 'The Purge Election Year': Tedious Thriller at Best.
 ![A scene from "The Purge: Election Year". Image courtesy of Universal Pictures. All Rights Reserved](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0813b72b-1835-40d3-91cc-18129b0e1d09.jpg)
-
-"The Purge: Election Year": Tedious Thriller at Best
 
 Director **James DeMonaco** goes for the so-called political jugular in '[The Purge: Election Year][0]' on what is, yet another, much-anticipated sequel this summer. In reality, the film is the third installment in _The Purge _film series, but this new chapter brings back characters from 2014's 'Anarchy' to set things in motion.
 
@@ -32,7 +36,7 @@ _The Purge: Election Year opens nationwide on Friday, July 1, 2016\._
 
 For movie times in NYC check out [Fandango][4]
 
-Trailer Availabe on [YouTube][5]
+Trailer on [YouTube][5]
 
 [0]: http://www.thepurgeelectionyear.com/
 [1]: http://www.imdb.com/name/nm0593310/?ref_=nv_sr_1
