@@ -13,14 +13,14 @@ description: >-
   Harry Potter film chapters should be able to deliver an entertaining and brand
   new adventure. The special effects take care of the world around Tarzan, but
   the action is mostly sluggish from beginning to end.
-datePublished: '2016-07-01T21:30:57.048Z'
-dateModified: '2016-07-01T21:30:41.727Z'
+datePublished: '2016-07-01T21:33:04.150Z'
+dateModified: '2016-07-01T21:31:48.177Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-01-the-legend-of-tarzan-tries-to-rein-action-and-story.md
 authors: []
 publisher: null
 starred: true
-sourcePath: _posts/2016-07-01-the-legend-of-tarzan-tries-to-rein-action-and-story.md
 url: the-legend-of-tarzan-tries-to-rein-action-and-story/index.html
 _type: Article
 
@@ -37,7 +37,7 @@ The world of the jungle is breathtaking and the 3D and IMAX experience will cert
 
 There are some entertaining scenes in the film, but not sure if they are enough to make audiences spend their money at the box office this weekend. The story is particularly troublesome and nowadays moviegoers look for a well-driven plot -- which is one of the reasons that 'Finding Dory' is doing so well in ticket sales. Can 'The Legend of Tarzan' compete? Let's wait and see.
 
-_Check out the Trailer on_ [YouTube][1]
+_Check out the Trailer on_[YouTube][1]
 
 [0]: legendoftarzan.com
 [1]: https://www.youtube.com/watch?v=Aj7ty6sViiU
