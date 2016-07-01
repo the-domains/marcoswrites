@@ -13,8 +13,8 @@ description: >-
   Harry Potter film chapters should be able to deliver an entertaining and brand
   new adventure. The special effects take care of the world around Tarzan, but
   the action is mostly sluggish from beginning to end.
-datePublished: '2016-07-01T21:33:04.150Z'
-dateModified: '2016-07-01T21:31:48.177Z'
+datePublished: '2016-07-01T21:47:46.467Z'
+dateModified: '2016-07-01T21:33:14.036Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-01-the-legend-of-tarzan-tries-to-rein-action-and-story.md
