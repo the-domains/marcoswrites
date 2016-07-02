@@ -1,16 +1,15 @@
 ---
+datePublished: '2016-07-02T18:20:03.440Z'
+sourcePath: _posts/2016-06-30-sledgehammer-from-the-motion-picture.md
 inFeed: true
-hasPage: false
-inNav: false
 isBasedOnUrl: 'http://vevo.ly/7x4zVe'
-inLanguage: null
+authors: []
+hasPage: false
 keywords: []
-description: 'Movie News: Rihanna’s NEW Music Video'
-datePublished: '2016-07-01T21:48:56.078Z'
-dateModified: '2016-07-01T21:48:35.666Z'
 related: []
 author:
   - name: Image courtesy of Paramount Pictures
+dateModified: '2016-07-02T18:15:20.744Z'
 title: ''
 app_links:
   - app_name: vevo
@@ -44,13 +43,14 @@ app_links:
     package: '385815082'
     namespace: google
     type: ios
-sourcePath: _posts/2016-06-30-sledgehammer-from-the-motion-picture.md
-authors: []
 publisher:
   name: VEVO
   domain: vevo.ly
   url: 'http://www.vevo.com'
   favicon: 'http://www.vevo.com/nucleus/img/favicon.1d9b20a6.ico'
+description: 'Movie News: Rihanna’s NEW Music Video'
+inLanguage: null
+inNav: false
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
