@@ -1,9 +1,14 @@
 ---
+datePublished: '2016-07-02T18:19:57.377Z'
+sourcePath: _posts/2016-07-01-the-legend-of-tarzan-tries-to-rein-action-and-story.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
+author: []
+dateModified: '2016-07-02T18:18:58.344Z'
+title: ''
+publisher: null
 description: >-
   ‘The Legend of Tarzan’ swings into theaters this weekend meeting high
   expectations for the film and the sluggish box office season. If the movie
@@ -13,21 +18,16 @@ description: >-
   Harry Potter film chapters should be able to deliver an entertaining and brand
   new adventure. The special effects take care of the world around Tarzan, but
   the action is mostly sluggish from beginning to end.
-datePublished: '2016-07-01T21:47:46.467Z'
-dateModified: '2016-07-01T21:33:14.036Z'
-title: ''
-author: []
-sourcePath: _posts/2016-07-01-the-legend-of-tarzan-tries-to-rein-action-and-story.md
-authors: []
-publisher: null
+inLanguage: null
+inNav: false
 starred: true
 url: the-legend-of-tarzan-tries-to-rein-action-and-story/index.html
 _type: Article
 
 ---
-![Image Courtesy of Warner Bros.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a721c36-ba65-4985-9dc2-1ae4f81fbc27.jpg)
+![A scene from 'The Legend of Tarzan'. Image courtesy of Warner Bros. Pictures](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d63d8156-013a-4267-a147-0a521e3f1774.jpg)
 
-'[_The Legend of Tarzan_][0]' swings into theaters this weekend meeting high expectations for the film and the sluggish box office season. If the movie earns its production budget stateside than that would be a Hollywood miracle.**David Yates **direction and innovative story seem like a perfect combination for the holiday weekend. After all, the man behind a few renowned _Harry Potter _film chapters should be able to deliver an entertaining and brand new adventure. The special effects take care of the world around Tarzan, but the action is mostly sluggish from beginning to end.
+'_[The Legend of Tarzan][0]_' swings into theaters this weekend meeting high expectations for the film and the sluggish box office season. If the movie earns its production budget stateside than that would be a Hollywood miracle.**David Yates **direction and innovative story seem like a perfect combination for the holiday weekend. After all, the man behind a few renowned _Harry Potter _film chapters should be able to deliver an entertaining and brand new adventure. The special effects take care of the world around Tarzan, but the action is mostly sluggish from beginning to end.
 
 Based on Edgar Rice Burroughs' fictional character, screenwriter duo Adam Cozad and Craig Brewer ('Hustle & Flow') craft a tale of a grown Tarzan, and his civilized persona John Clayton III, who struggles with the legend he embodies. Lord Greystoke, as he is often referred to, is a noble man who wishes nothing more but to leave behind the African jungle and its mysticism. Even though, he amuses young children, politicians, and his wife from time to time with ideas of the wild. He wants nothing to do with it -- at first. If that's not enough the writers add a political tone to convince his character to return and save the land he used to call home. If the ideas sound conflicting that is because they are.
 
