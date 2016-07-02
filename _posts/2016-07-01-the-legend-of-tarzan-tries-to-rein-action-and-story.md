@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-02T18:36:14.185Z'
+datePublished: '2016-07-02T18:36:18.206Z'
 sourcePath: _posts/2016-07-01-the-legend-of-tarzan-tries-to-rein-action-and-story.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-02T18:36:13.791Z'
+dateModified: '2016-07-02T18:36:17.256Z'
 title: ''
 publisher: null
 description: >-
@@ -20,7 +20,7 @@ description: >-
   the action is mostly sluggish from beginning to end.
 inLanguage: null
 inNav: false
-starred: false
+starred: true
 url: the-legend-of-tarzan-tries-to-rein-action-and-story/index.html
 _type: Article
 
