@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-02T18:20:17.270Z'
+datePublished: '2016-07-05T18:21:55.213Z'
 sourcePath: _posts/2016-06-30-sledgehammer-from-the-motion-picture.md
 inFeed: true
 isBasedOnUrl: 'http://vevo.ly/7x4zVe'
@@ -9,8 +9,8 @@ keywords: []
 related: []
 author:
   - name: Image courtesy of Paramount Pictures
-dateModified: '2016-07-02T18:20:05.493Z'
-title: ''
+dateModified: '2016-07-05T18:21:43.231Z'
+title: Star Trek Beyond’s “Sledgehammer”
 app_links:
   - app_name: vevo
     package: com.vevo
@@ -56,6 +56,8 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+# Star Trek Beyond's "Sledgehammer"
+
 Movie News: Rihanna's NEW Music Video
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/87794640-32f8-4698-9453-ccf097d758a9.jpg)
 
