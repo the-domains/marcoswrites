@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-07-05T18:34:04.175Z'
+datePublished: '2016-07-05T18:37:02.393Z'
+sourcePath: _posts/2016-07-05-movie-trailer-tuesday-malicks-voyage-of-time.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=YVyWObJY9FQ'
 keywords:
   - trailers
@@ -17,7 +18,7 @@ author:
   - name: One Big Soul
     url: 'https://www.youtube.com/channel/UCeGmKYT7WkM5qL6GeWuY9ZQ'
     avatar: {}
-dateModified: '2016-07-05T18:33:52.112Z'
+dateModified: '2016-07-05T18:36:42.571Z'
 title: 'Movie-Trailer Tuesday: Malick’s “Voyage of Time”'
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=YVyWObJY9FQ&feature=applinks'
@@ -64,7 +65,6 @@ publisher:
 description: 'Check out the visually stunning trailer, narrated by Brad Pitt.'
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-07-05-movie-trailer-tuesday-malicks-voyage-of-time.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -78,4 +78,4 @@ Check out the visually stunning trailer, narrated by Brad Pitt.
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FYVyWObJY9FQ%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYVyWObJY9FQ&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FYVyWObJY9FQ%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
-Director Terrence Malick often crafts amazing films with complex characters and visually stunning scenes. Now with '"Voyage of Time", to be released in October, takes the viewer onto a celebration of the universe. The IMAX documentary film is already being labeled as Malick's "greatest dream".
+Director Terrence Malick often crafts amazing films with complex characters and visually stunning scenes. Now with '"Voyage of Time", to be released in October, he takes the viewer onto a celebration of the universe. The IMAX documentary film is already being labeled as Malick's "greatest dream".
