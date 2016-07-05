@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-05T18:37:02.393Z'
+datePublished: '2016-07-05T18:47:03.889Z'
 sourcePath: _posts/2016-07-05-movie-trailer-tuesday-malicks-voyage-of-time.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=YVyWObJY9FQ'
 keywords:
@@ -14,11 +14,8 @@ keywords:
   - '757'
   - '187'
 related: []
-author:
-  - name: One Big Soul
-    url: 'https://www.youtube.com/channel/UCeGmKYT7WkM5qL6GeWuY9ZQ'
-    avatar: {}
-dateModified: '2016-07-05T18:36:42.571Z'
+author: []
+dateModified: '2016-07-05T18:46:55.730Z'
 title: 'Movie-Trailer Tuesday: Malick’s “Voyage of Time”'
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=YVyWObJY9FQ&feature=applinks'
@@ -72,6 +69,8 @@ _context: 'http://schema.org'
 _type: VideoObject
 
 ---
+![A scene from "Voyage of Time"](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d526a498089ef06604bac6a969cda412/croprotate.jpg?cropheight=735&cropwidth=719&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F1641eb1f-b9ca-4b08-8d3f-610516bd9132.jpg&x=216&y=0)
+
 # Movie-Trailer Tuesday: Malick's "Voyage of Time"
 
 Check out the visually stunning trailer, narrated by Brad Pitt.
