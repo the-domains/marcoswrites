@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-07-12T18:51:55.817Z'
+datePublished: '2016-07-12T18:55:22.324Z'
+sourcePath: _posts/2016-07-12-movie-trailer-tuesday-star-trek-beyonds-new-enemy.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=kfPKpVYFSnU&feature=youtu.be'
 keywords:
   - paramount
@@ -14,7 +15,7 @@ keywords:
   - star
 related: []
 author: []
-dateModified: '2016-07-12T18:50:46.250Z'
+dateModified: '2016-07-12T18:55:14.777Z'
 title: 'Movie-Trailer Tuesday: ‘Star Trek Beyond’s’ New Enemy'
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=kfPKpVYFSnU&feature=applinks'
@@ -61,7 +62,6 @@ publisher:
 description: 'July 12, 2016'
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-07-12-movie-trailer-tuesday-star-trek-beyonds-new-enemy.md
 inFeed: true
 hasPage: false
 inNav: false
