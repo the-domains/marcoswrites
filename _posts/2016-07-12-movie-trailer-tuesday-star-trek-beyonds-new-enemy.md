@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-12T18:55:22.324Z'
+datePublished: '2016-07-12T18:57:59.465Z'
 sourcePath: _posts/2016-07-12-movie-trailer-tuesday-star-trek-beyonds-new-enemy.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=kfPKpVYFSnU&feature=youtu.be'
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - star
 related: []
 author: []
-dateModified: '2016-07-12T18:55:14.777Z'
+dateModified: '2016-07-12T18:57:32.024Z'
 title: 'Movie-Trailer Tuesday: ‘Star Trek Beyond’s’ New Enemy'
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=kfPKpVYFSnU&feature=applinks'
