@@ -4,7 +4,7 @@
         <description><![CDATA[Marcos Writes]]></description>
         <link>http://marcoswrites.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 18:58:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2016 21:31:31 GMT</lastBuildDate>
         <atom:link href="http://marcoswrites.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Parenting Matters in 'Captain Fantastic']]></title>
@@ -46,6 +46,13 @@ kids and adults alike.</p><img src="https://imgflo.herokuapp.com/graph/vahj1Thie
             <pubDate>Thu, 30 Jun 2016 15:51:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Top 10 Must-See Horror Movies]]></title>
+            <description><![CDATA[<article><h1>Top 10 Must-See Horror Movies</h1><p>What is your favorite horror movie? From classic to modern tales, CGI monsters or strangely-lit films. Here are some choices that literally scare or thrill with twisted narratives and characters that have defined pop culture.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a38ab46a0aa3e0aa61cf1ec971dd001b2ef085c.png"></article>]]></description>
+            <link>http://list.ly/list/4Gj-top-10-must-see-and-own-horror-movies</link>
+            <guid isPermaLink="false">f7d6d1ab-c18b-48a5-927a-ee418a75312e</guid>
+            <pubDate>Wed, 13 Jul 2016 21:31:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Movie-Trailer Tuesday: ‘Star Trek Beyond’s’ New Enemy]]></title>
             <description><![CDATA[<article><h1>Movie-Trailer Tuesday: ‘Star Trek Beyond’s’ New Enemy</h1><p>July 12, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ddabafeb-e72b-4837-9809-2cdf02d08c9d.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=kfPKpVYFSnU&amp;feature=youtu.be</link>
@@ -72,13 +79,6 @@ kids and adults alike.</p><img src="https://imgflo.herokuapp.com/graph/vahj1Thie
             <link>http://vevo.ly/7x4zVe</link>
             <guid isPermaLink="false">f6b0eb4d-10ca-43d9-b9f5-9c01d2435d9e</guid>
             <pubDate>Tue, 05 Jul 2016 18:21:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Warcraft" delivers so-so fantasy]]></title>
-            <description><![CDATA[<article><h1>"Warcraft" delivers so-so fantasy</h1><p>Hollywood is trying to desperately fill the void that the “Lord of The Rings" franchise and the "Harry Potter" series left behind. Legendary Pictures partners with Blizzard Entertainment to bring a fantasy film based on a 1994 video game.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c22af4c5-e12d-46c3-b34e-4db85a14a235.jpg"></article>]]></description>
-            <link>http://marcoswrites.com/warcraft-delivers-so-so-fantasy/index.html</link>
-            <guid isPermaLink="false">7ec60686-6fe7-474e-aabe-b692097ef178</guid>
-            <pubDate>Wed, 29 Jun 2016 17:04:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
