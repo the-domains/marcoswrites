@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Follow Marcos on Social Media.
-datePublished: '2016-07-14T22:32:29.882Z'
-dateModified: '2016-07-14T22:31:51.666Z'
+datePublished: '2016-07-14T22:36:46.652Z'
+dateModified: '2016-07-14T22:36:27.349Z'
 sourcePath: _posts/2016-07-14-social-media-channels.md
 author:
   - name: Designed by Freepik and distributed by Flaticon
