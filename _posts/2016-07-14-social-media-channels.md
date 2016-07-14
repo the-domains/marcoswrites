@@ -5,16 +5,16 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Follow Marcos on Social Media. Do it now!!!
-datePublished: '2016-07-14T22:09:27.745Z'
-dateModified: '2016-07-14T22:09:23.943Z'
+datePublished: '2016-07-14T22:10:16.906Z'
+dateModified: '2016-07-14T22:10:16.470Z'
 title: Social Media Channels
 author:
   - name: ''
     url: ''
 authors: []
 publisher: null
-starred: false
 sourcePath: _posts/2016-07-14-social-media-channels.md
+starred: true
 url: social-media-channels/index.html
 _type: Article
 
