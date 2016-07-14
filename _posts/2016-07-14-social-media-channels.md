@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-14T22:18:06.392Z'
+datePublished: '2016-07-14T22:25:34.039Z'
 sourcePath: _posts/2016-07-14-social-media-channels.md
 inFeed: true
 authors: []
@@ -8,13 +8,13 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-07-14T22:17:54.441Z'
+dateModified: '2016-07-14T22:25:33.334Z'
 title: Social Media Channels
 publisher: null
 description: 'Follow Marcos on Social Media. '
 inLanguage: null
 inNav: true
-starred: true
+starred: false
 url: social-media-channels/index.html
 _type: Article
 
