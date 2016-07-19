@@ -27,6 +27,11 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - id: 1d7ff8fb-0ccb-4820-b62c-a47122841a66
+    url: 2016-06-24-examinercom-archives.html
+    name: Examiner Archives
+    type: content
 favicon: null
 title: Marcos Writes
 purpose: []
