@@ -4,7 +4,7 @@
         <description><![CDATA[Marcos Writes]]></description>
         <link>http://marcoswrites.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 19:39:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2016 20:21:39 GMT</lastBuildDate>
         <atom:link href="http://marcoswrites.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Parenting Matters in 'Captain Fantastic']]></title>
@@ -37,6 +37,13 @@ kids and adults alike.</p><img src="https://imgflo.herokuapp.com/graph/vahj1Thie
             <link>http://marcoswrites.com/the-purge-election-year-tedious-thriller/index.html</link>
             <guid isPermaLink="false">1cf397aa-57ec-41e5-a0d3-fac797784d2a</guid>
             <pubDate>Thu, 30 Jun 2016 16:46:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Movie Trailer: ‘The Magnificent Seven’]]></title>
+            <description><![CDATA[<article><h1>Movie Trailer: ‘The Magnificent Seven’</h1><p>Check out the trailers into Fuqua’s vision to this Hollywood remake. Denzel Washington shines through, but so does the rest of the ensemble cast. Bang-bang!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/96799806-a6cb-4ff8-96cf-0d72ab0cee45.jpg"></article>]]></description>
+            <link>http://trailers.apple.com/trailers/sony_pictures/themagnificentseven/</link>
+            <guid isPermaLink="false">88a4fcd5-a324-48c1-8f73-1fccd28b54a3</guid>
+            <pubDate>Mon, 18 Jul 2016 20:21:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Movie Trailer: ‘The Girl on the Train’]]></title>
@@ -72,13 +79,6 @@ kids and adults alike.</p><img src="https://imgflo.herokuapp.com/graph/vahj1Thie
             <link>http://list.ly/list/4Gj-top-10-must-see-and-own-horror-movies</link>
             <guid isPermaLink="false">f7d6d1ab-c18b-48a5-927a-ee418a75312e</guid>
             <pubDate>Wed, 13 Jul 2016 21:31:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Movie-Trailer Tuesday: ‘Star Trek Beyond’s’ New Enemy]]></title>
-            <description><![CDATA[<article><h1>Movie-Trailer Tuesday: ‘Star Trek Beyond’s’ New Enemy</h1><p>July 12, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ddabafeb-e72b-4837-9809-2cdf02d08c9d.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=kfPKpVYFSnU&amp;feature=youtu.be</link>
-            <guid isPermaLink="false">8a1fd806-4f39-47c7-aa4a-c1c54f05a582</guid>
-            <pubDate>Tue, 12 Jul 2016 18:57:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
