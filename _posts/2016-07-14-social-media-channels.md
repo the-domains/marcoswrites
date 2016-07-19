@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-18T17:08:21.210Z'
+datePublished: '2016-07-18T17:09:03.009Z'
 sourcePath: _posts/2016-07-14-social-media-channels.md
 inFeed: true
 authors: []
@@ -8,7 +8,7 @@ keywords: []
 author:
   - name: Designed by Freepik and distributed by Flaticon
     url: ''
-dateModified: '2016-07-18T17:07:49.778Z'
+dateModified: '2016-07-18T17:09:02.431Z'
 title: Social Media
 publisher: null
 description: Follow Marcos on Social Media.
