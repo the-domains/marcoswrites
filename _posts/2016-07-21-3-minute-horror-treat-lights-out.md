@@ -1,8 +1,11 @@
 ---
-datePublished: '2016-07-21T17:44:54.312Z'
+datePublished: '2016-07-21T17:53:15.600Z'
 sourcePath: _posts/2016-07-21-3-minute-horror-treat-lights-out.md
+inFeed: true
 isBasedOnUrl: >-
   http://www.latimes.com/entertainment/herocomplex/la-et-hc-the-short-film-that-inspired-a-hollywood-picture-20160326-story.html
+authors: []
+hasPage: false
 keywords:
   - wan
   - sandberg
@@ -33,28 +36,25 @@ author:
     url: 'http://www.latimes.com/la-bio-meredith-woerner-staff.html#nt=byline'
     avatar: {}
 via: {}
-dateModified: '2016-07-21T17:44:53.509Z'
-title: 3-Minute Horror Treat ‘Lights Out’
+dateModified: '2016-07-21T17:53:15.251Z'
+title: '3-Minute Treat: ‘Lights Out’'
 app_links: []
 publisher:
-  url: 'http://www.latimes.com'
   name: latimes.com
-  favicon: 'http://www.latimes.com/favicon.ico'
   domain: www.latimes.com
+  url: 'http://www.latimes.com'
+  favicon: 'http://www.latimes.com/favicon.ico'
 description: 'July 21, 2016.'
 inLanguage: en
-starred: false
-inFeed: true
-hasPage: false
 inNav: false
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# 3-Minute Horror Treat 'Lights Out'
+# 3-Minute Treat: 'Lights Out'
 
 July 21, 2016\.
 
 David F. Sandberg's horror feature-flick 'Lights Out' opens tomorrow. Before you head to the theaters this weekend, check out the short that inspired it all. Being afraid of the dark has never been so chilling. Stay tuned for full review.
-
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dfab809c9bb2dc86a9ce29052eb79c5c20e7a0dc" /><h1>How the horror short 'Lights Out' went from 3-minute film to Hollywood feature</h1><p>A simple premise and a three-minute minimum rocketed short director David F. Sandberg to Internet fame when his horror short "Lights Out" went viral. The quick flick landed on many folks' radar, including bankable horror movie veteran James Wan . And now that scary short shall become a frightening feature.</p></article>
+![A still from 'Lights Out' short](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c5c187e-7188-4aaa-a280-5105ab0debe5.png)
