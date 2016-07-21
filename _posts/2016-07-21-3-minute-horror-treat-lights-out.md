@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-21T17:39:04.237Z'
+datePublished: '2016-07-21T17:44:54.312Z'
 sourcePath: _posts/2016-07-21-3-minute-horror-treat-lights-out.md
 isBasedOnUrl: >-
   http://www.latimes.com/entertainment/herocomplex/la-et-hc-the-short-film-that-inspired-a-hollywood-picture-20160326-story.html
@@ -29,13 +29,18 @@ related:
       http://dazedimg.dazedgroup.netdna-cdn.com/1200/135-0-1350-900/azure/dazed-prod/1130/1/1131516.jpg
     thumbnail_width: 1200
 author:
-  - name: Shock Till You Drop Site
-    url: ''
+  - name: Meredith Woerner
+    url: 'http://www.latimes.com/la-bio-meredith-woerner-staff.html#nt=byline'
+    avatar: {}
 via: {}
-dateModified: '2016-07-21T17:39:03.440Z'
+dateModified: '2016-07-21T17:44:53.509Z'
 title: 3-Minute Horror Treat ‘Lights Out’
 app_links: []
-publisher: {}
+publisher:
+  url: 'http://www.latimes.com'
+  name: latimes.com
+  favicon: 'http://www.latimes.com/favicon.ico'
+  domain: www.latimes.com
 description: 'July 21, 2016.'
 inLanguage: en
 starred: false
@@ -49,7 +54,6 @@ _type: MediaObject
 # 3-Minute Horror Treat 'Lights Out'
 
 July 21, 2016\.
-![A still from the short 'Lights Out'](https://the-grid-user-content.s3-us-west-2.amazonaws.com/18a4e400-f99e-4f88-b51c-a209bc644313.png)
 
 David F. Sandberg's horror feature-flick 'Lights Out' opens tomorrow. Before you head to the theaters this weekend, check out the short that inspired it all. Being afraid of the dark has never been so chilling. Stay tuned for full review.
 
