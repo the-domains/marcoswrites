@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-07-21T17:29:40.994Z'
+datePublished: '2016-07-21T17:34:46.336Z'
+sourcePath: _posts/2016-07-21-3-minute-horror-treat-lights-out.md
 isBasedOnUrl: >-
   http://www.latimes.com/entertainment/herocomplex/la-et-hc-the-short-film-that-inspired-a-hollywood-picture-20160326-story.html
 keywords:
@@ -31,14 +32,13 @@ author:
   - name: Shock Till You Drop Site
     url: ''
 via: {}
-dateModified: '2016-07-21T17:29:04.302Z'
+dateModified: '2016-07-21T17:34:45.873Z'
 title: 3-Minute Horror Treat ‘Lights Out’
 app_links: []
 publisher: {}
 description: 'July 21, 2016.'
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-07-21-3-minute-horror-treat-lights-out.md
 inFeed: true
 hasPage: false
 inNav: false
