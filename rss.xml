@@ -4,8 +4,15 @@
         <description><![CDATA[Marcos Writes]]></description>
         <link>http://marcoswrites.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 17:53:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 17:59:52 GMT</lastBuildDate>
         <atom:link href="http://marcoswrites.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Spine-Chilling 'Lights Out']]></title>
+            <description><![CDATA[<article><h1>A Spine-Chilling 'Lights Out'</h1><p>Director David F. Sandberg frights with his chilling feature debut 'Lights Out' based on his award winning short. If you are afraid of the dark, this horror flick will be a good reminder as to why one should always double-check lurking shadows – whether it is an optical trick or not.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/919eb975-48b7-45ca-9847-d584f61b9d38.jpg"></article>]]></description>
+            <link>http://marcoswrites.com/a-spine-chilling-lights-out/index.html</link>
+            <guid isPermaLink="false">10d06f2c-58ec-4d02-9089-32f2d3c3917e</guid>
+            <pubDate>Fri, 22 Jul 2016 17:59:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Parenting Matters in 'Captain Fantastic']]></title>
             <description><![CDATA[<article><h1>Parenting Matters in 'Captain Fantastic'</h1><p>What is good parenting? That is the question that Matt Ross ('28 Rooms') offers the audience in ‘Captain Fantastic’ chairing as both writer and director in the film. There might be many answers to the question – but one thing is for sure the story is a journey to many possibilities. Ultimately, it is up to the viewer to decide what makes for good or bad parental guidance.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/43b346ca348ec823d3edaafa9767401b/croprotate.jpg?cropheight=1734&cropwidth=2600&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F8920e59d-b80f-4705-baa8-d4e5a53c43c3.jpg&x=0&y=0"></article>]]></description>
@@ -72,13 +79,6 @@ kids and adults alike.</p><img src="https://imgflo.herokuapp.com/graph/vahj1Thie
             <link>http://marcoswrites.com/social-media/index.html</link>
             <guid isPermaLink="false">d5e8030f-99fe-431f-bd15-82c1d64ac358</guid>
             <pubDate>Mon, 18 Jul 2016 17:09:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Captain Fantastic’: Behind-the-Scenes Featurette]]></title>
-            <description><![CDATA[<article><h1>‘Captain Fantastic’: Behind-the-Scenes Featurette</h1><p>July 14, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9aff9f0-9d9c-46c4-9ba9-e356618ec24e.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=t2BhOhYwBtk</link>
-            <guid isPermaLink="false">e4a3e163-7e92-4461-9818-40adf37d6b15</guid>
-            <pubDate>Thu, 14 Jul 2016 20:27:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
