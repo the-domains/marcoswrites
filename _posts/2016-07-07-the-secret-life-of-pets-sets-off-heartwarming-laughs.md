@@ -15,16 +15,17 @@ description: >-
   to infuse the box office with marvelous characters and adventures that satisfy
 
   kids and adults alike.
-datePublished: '2016-07-07T17:16:01.731Z'
-dateModified: '2016-07-07T17:15:15.560Z'
+datePublished: '2016-07-22T18:03:50.069Z'
+dateModified: '2016-07-22T18:01:31.753Z'
 title: '''The Secret Life of Pets'' sets off Heartwarming Laughs'
 author:
   - name: ''
     url: ''
 authors: []
-publisher: null
-starred: true
+publisher: {}
 sourcePath: _posts/2016-07-07-the-secret-life-of-pets-sets-off-heartwarming-laughs.md
+via: {}
+starred: false
 url: the-secret-life-of-pets-sets-off-heartwarming-laughs/index.html
 _type: Article
 
