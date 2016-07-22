@@ -10,16 +10,17 @@ description: >-
   director in the film. There might be many answers to the question – but one
   thing is for sure the story is a journey to many possibilities. Ultimately, it
   is up to the viewer to decide what makes for good or bad parental guidance.
-datePublished: '2016-07-08T22:16:22.509Z'
-dateModified: '2016-07-08T22:15:26.355Z'
+datePublished: '2016-07-22T18:03:40.785Z'
+dateModified: '2016-07-22T18:01:40.987Z'
 title: Parenting Matters in 'Captain Fantastic'
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-07-08-parenting-matters-in-captain-fantastic.md
 authors: []
-publisher: null
-starred: true
+publisher: {}
+via: {}
+starred: false
 url: parenting-matters-in-captain-fantastic/index.html
 _type: Article
 
