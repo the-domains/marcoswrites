@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-26T22:51:10.933Z'
+datePublished: '2016-07-26T22:51:11.069Z'
 sourcePath: _posts/2016-07-26-movie-trailer-tuesday-wonder-woman-v-doctor-strange.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/14fd8ba7-69d7-47e3-addc-420af4d65806.jpg
