@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-26T22:53:26.772Z'
+datePublished: '2016-07-26T22:55:34.105Z'
 sourcePath: _posts/2016-07-26-movie-trailer-tuesday-wonder-woman-v-doctor-strange.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/14fd8ba7-69d7-47e3-addc-420af4d65806.jpg
 author:
   - name: '''Wonder Woman'' photo via Empire | ''Doctor Strange'' photo via Marvel.com'
 via: {}
-dateModified: '2016-07-26T22:53:07.936Z'
+dateModified: '2016-07-26T22:55:32.075Z'
 title: 'Movie-Trailer Tuesday: ‘Wonder Woman’ v. ‘Doctor Strange’'
 publisher: {}
 description: >-
