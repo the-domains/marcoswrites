@@ -1,12 +1,15 @@
 ---
 description: 'For all Examiner.com articles, check out the NY Film Examiner page'
-dateModified: '2016-07-18T19:47:48.157Z'
-datePublished: '2016-07-18T19:48:01.047Z'
+dateModified: '2016-07-27T19:25:11.464Z'
+datePublished: '2016-07-27T19:25:11.945Z'
 title: Examiner.com Archives
 author: []
 sourcePath: _posts/2016-06-24-examinercom-archives.md
 hasPage: true
-starred: true
+publisher:
+  name: examiner.com
+via: {}
+starred: false
 url: examinercom-archives/index.html
 _type: MediaObject
 
