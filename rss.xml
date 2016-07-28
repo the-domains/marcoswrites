@@ -4,7 +4,7 @@
         <description><![CDATA[Marcos Writes]]></description>
         <link>http://marcoswrites.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jul 2016 19:49:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 18:19:28 GMT</lastBuildDate>
         <atom:link href="http://marcoswrites.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A Spine-Chilling 'Lights Out']]></title>
@@ -26,6 +26,13 @@
             <link>http://marcoswrites.com/the-purge-election-year-tedious-thriller/index.html</link>
             <guid isPermaLink="false">1cf397aa-57ec-41e5-a0d3-fac797784d2a</guid>
             <pubDate>Thu, 30 Jun 2016 16:46:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Movie Trailer: ‘The Great Wall’]]></title>
+            <description><![CDATA[<article><h1>Movie Trailer: ‘The Great Wall’</h1><p>Matt Damon stars on a new chapter of ‘Bourne’ opening this weekend. The multi-talented actor will take on monsters (or dragons?) in director’s Zhang Yimou (‘Hero’, ‘House of Flying Daggers’) action-thriller ‘The Great Wall’. Check out the trailer for a sneak peek into the magnificent film shot entirely in China.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ea9a803-adf5-4f9a-bafd-2b05280c3cd1.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=6SKI9rgqFck</link>
+            <guid isPermaLink="false">f3955467-38b4-4d59-a765-e3c29463a58f</guid>
+            <pubDate>Thu, 28 Jul 2016 18:19:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Movie Trailer: Shyamalan’s ‘Split’ ]]></title>
@@ -72,13 +79,6 @@ kids and adults alike.</p><img src="https://imgflo.herokuapp.com/graph/vahj1Thie
             <link>http://www.thegirlonthetrainmovie.com/</link>
             <guid isPermaLink="false">6e23fb6e-51f8-46ea-88e8-cdbc1830179f</guid>
             <pubDate>Mon, 18 Jul 2016 19:39:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Final ‘Star Trek Beyond’ Trailer]]></title>
-            <description><![CDATA[<article><h1>Final ‘Star Trek Beyond’ Trailer</h1><p>The most-anticipated Star Trek chapter opens this week. A fourth installment has been announced too. If you cannot wait, check the final trailer in the movie’s official Facebook link below.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/79f85cb3-c233-4993-b742-87647e0e39ab.jpg"></article>]]></description>
-            <link>https://www.facebook.com/StarTrekMovie/videos/10153795017913716</link>
-            <guid isPermaLink="false">2597d0b7-c622-4b58-b47f-2c7528156a7c</guid>
-            <pubDate>Mon, 18 Jul 2016 17:27:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
