@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-29T19:13:07.123Z'
+datePublished: '2016-07-29T19:14:30.827Z'
 sourcePath: _posts/2016-07-29-equity-women-and-money.md
 inFeed: true
 isBasedOnUrl: >-
@@ -11,13 +11,9 @@ author:
   - name: Image Courtesy of Sony Pictures Classics
     url: ''
 via: {}
-dateModified: '2016-07-29T19:13:06.533Z'
+dateModified: '2016-07-29T19:14:30.132Z'
 title: '''Equity'': Women and Money'
-publisher:
-  name: Sony Pictures Classic
-  domain: null
-  url: ''
-  favicon: null
+publisher: {}
 description: >-
   Writer Amy Fox delivers a strong punch in 'Equity', in a story co-written by
   Sarah Megan Thomas and Alyssa Reiner, where women are behind the
@@ -30,7 +26,7 @@ starred: true
 _type: MediaObject
 
 ---
-![A scene from "Equity"](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c05dd5f-0200-4d0f-b880-6b18c72cc9cc.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c05dd5f-0200-4d0f-b880-6b18c72cc9cc.jpg)
 
 Writer **[Amy Fox ][0]**delivers a strong punch in '[Equity][1]', in a story co-written by Sarah Megan Thomas and Alyssa Reiner, where women are behind the movers-and-shakers of Wall Street. Unlike others films that take on the idea of corruption and money laundering schemes, the film focuses in a group of women that are as ambitious as any male counterpart in the same legion.
 
