@@ -1,32 +1,32 @@
 ---
+datePublished: '2016-07-29T19:08:47.156Z'
+sourcePath: _posts/2016-07-29-equity-women-and-money.md
 inFeed: true
-hasPage: false
-inNav: false
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c05dd5f-0200-4d0f-b880-6b18c72cc9cc.jpg
-inLanguage: null
+authors: []
+hasPage: false
 keywords: []
+author:
+  - name: Image Courtesy of Sony Pictures Classics
+    url: ''
+via: {}
+dateModified: '2016-07-29T19:08:46.662Z'
+title: '''Equity'': Women and Money'
+publisher:
+  name: Sony Pictures Classic
+  domain: null
+  url: ''
+  favicon: null
 description: >-
   Writer Amy Foxdelivers a strong punch in 'Equity', in a story co-written by
   Sarah Megan Thomas and Alyssa Reiner, where women are behind the
   movers-and-shakers of Wall Street. Unlike others films that take on the idea
   of corruption and money laundering schemes, the film focuses in a group of
   women that are as ambitious as any male counterpart in the same legion.
-datePublished: '2016-07-29T19:03:14.894Z'
-dateModified: '2016-07-29T19:03:03.455Z'
-title: '''Equity'': Women and Money'
-author:
-  - name: ''
-    url: ''
-via: {}
-authors: []
-publisher:
-  name: Sony Pictures Classic
-  domain: null
-  url: ''
-  favicon: null
+inLanguage: null
+inNav: false
 starred: true
-sourcePath: _posts/2016-07-29-equity-women-and-money.md
 _type: MediaObject
 
 ---
@@ -42,7 +42,7 @@ Perhaps because it is not just about the old "battle of the sexes" but an indivi
 
 'Equity' fares well in a genre that mostly focuses in the male-driven stories of Wall Street. The characters are fiercely presented, and the actors enhance the words and ideas of people that want to have it all, no matter who gets hurts in the end.
 
-Check out the full trailer on [_YouTube_][3]
+Check out the full trailer on _[YouTube][3]_
 
 [0]: http://www.imdb.com/name/nm1470084/?ref_=fn_al_nm_1
 [1]: https://app.thegrid.io/posts/ab2515eb-dbf7-4b90-ac50-743a2f17295e/sonyclassics.com/equity
