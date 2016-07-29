@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-29T19:14:30.827Z'
+datePublished: '2016-07-29T19:19:06.000Z'
 sourcePath: _posts/2016-07-29-equity-women-and-money.md
 inFeed: true
 isBasedOnUrl: >-
@@ -11,7 +11,7 @@ author:
   - name: Image Courtesy of Sony Pictures Classics
     url: ''
 via: {}
-dateModified: '2016-07-29T19:14:30.132Z'
+dateModified: '2016-07-29T19:19:05.681Z'
 title: '''Equity'': Women and Money'
 publisher: {}
 description: >-
