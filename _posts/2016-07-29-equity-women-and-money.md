@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-29T19:08:47.156Z'
+datePublished: '2016-07-29T19:09:27.216Z'
 sourcePath: _posts/2016-07-29-equity-women-and-money.md
 inFeed: true
 isBasedOnUrl: >-
@@ -11,13 +11,9 @@ author:
   - name: Image Courtesy of Sony Pictures Classics
     url: ''
 via: {}
-dateModified: '2016-07-29T19:08:46.662Z'
+dateModified: '2016-07-29T19:09:26.313Z'
 title: '''Equity'': Women and Money'
-publisher:
-  name: Sony Pictures Classic
-  domain: null
-  url: ''
-  favicon: null
+publisher: {}
 description: >-
   Writer Amy Foxdelivers a strong punch in 'Equity', in a story co-written by
   Sarah Megan Thomas and Alyssa Reiner, where women are behind the
