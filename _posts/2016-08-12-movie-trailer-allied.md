@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-12T14:18:39.446Z'
+datePublished: '2016-08-12T14:22:27.052Z'
+sourcePath: _posts/2016-08-12-movie-trailer-allied.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=HSCQWX-pUSg&feature=youtu.be'
 keywords:
   - paramount
@@ -16,7 +17,7 @@ related: []
 author:
   - name: Image courtesy of Paramount Pictures
 via: {}
-dateModified: '2016-08-12T14:17:54.930Z'
+dateModified: '2016-08-12T14:22:26.387Z'
 title: 'Movie Trailer: ‘Allied’'
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=HSCQWX-pUSg&feature=applinks'
@@ -59,10 +60,9 @@ publisher: {}
 description: >-
   Robert Zemeckis (‘What Lies Beneath’, ‘Cast Away’, ‘Flight’) teams up with
   Brad Pitt and Marion Cortillard in ‘Allied’. Check out the trailer, and ask
-  yourself: Is this a games? A test? 
+  yourself: Is this a game? A test?
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-12-movie-trailer-allied.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -73,6 +73,6 @@ _type: VideoObject
 # Movie Trailer: 'Allied'
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/387c8ecd-5d80-4a4e-ada6-538a2b6738ec.jpg)
 
-Robert Zemeckis ('What Lies Beneath', 'Cast Away', 'Flight') teams up with Brad Pitt and Marion Cortillard in 'Allied'. Check out the trailer, and ask yourself: Is this a games? A test? 
+Robert Zemeckis ('What Lies Beneath', 'Cast Away', 'Flight') teams up with Brad Pitt and Marion Cortillard in 'Allied'. Check out the trailer, and ask yourself: Is this a game? A test?
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FHSCQWX-pUSg%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHSCQWX-pUSg&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FHSCQWX-pUSg%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
