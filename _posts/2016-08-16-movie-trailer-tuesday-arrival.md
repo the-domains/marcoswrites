@@ -1,14 +1,14 @@
 ---
-description: 'Movie Trailer Tuesday: ‘Arrival’'
-dateModified: '2016-08-16T16:59:05.325Z'
-datePublished: '2016-08-16T17:00:11.778Z'
-title: ''
+datePublished: '2016-08-16T17:05:19.096Z'
+sourcePath: _posts/2016-08-16-movie-trailer-tuesday-arrival.md
 author:
   - name: Image courtesy of Paramount Pictures
-publisher: {}
 via: {}
+dateModified: '2016-08-16T17:05:18.404Z'
+title: ''
+publisher: {}
+description: 'Movie Trailer Tuesday: ‘Arrival’'
 starred: false
-sourcePath: _posts/2016-08-16-movie-trailer-tuesday-arrival.md
 inFeed: true
 hasPage: false
 inNav: false
