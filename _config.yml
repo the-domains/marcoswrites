@@ -31,6 +31,9 @@ navigation:
   - name: Movie Trailers
     id: 46ac2c45-0e78-4291-b39d-6cbc2b974474
     type: content
+  - name: 'Movie Trailer: ‘The Great Wall’'
+    id: f3955467-38b4-4d59-a765-e3c29463a58f
+    type: content
 favicon: null
 title: Marcos Writes
 description: Movie reviews (and news) in 500 words or less
