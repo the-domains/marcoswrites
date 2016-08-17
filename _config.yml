@@ -1,4 +1,31 @@
+name: Marcos Writes
+favicon: null
+layout_spectrum: 0.32493417616933584
 typography_spectrum: 0.4421739443205297
+author:
+  name: Marcos Bernal-Salas
+  email: marcos@marcoswrites.com
+navigation:
+  - name: Movie Trailers
+    id: 46ac2c45-0e78-4291-b39d-6cbc2b974474
+    type: content
+  - name: Social Media
+    id: d5e8030f-99fe-431f-bd15-82c1d64ac358
+    type: content
+title: Marcos Writes
+description: Movie reviews (and news) in 500 words or less
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-79999338-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#292929'
@@ -10,31 +37,4 @@ color:
   lightness: 0.23844363912940025
   saturation: 0.06055554235354066
   rhythmicContrast: 0.725763394497335
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.32493417616933584
-analytics:
-  google: UA-79999338-1
-  facebook: null
-  twitter: null
-author:
-  name: Marcos Bernal-Salas
-  email: marcos@marcoswrites.com
-name: Marcos Writes
-cta:
-  domain: null
-  bucket: null
-  version: null
-navigation:
-  - name: Movie Trailers
-    id: 46ac2c45-0e78-4291-b39d-6cbc2b974474
-    type: content
-  - name: Social Media
-    id: d5e8030f-99fe-431f-bd15-82c1d64ac358
-    type: content
-favicon: null
-title: Marcos Writes
-description: Movie reviews (and news) in 500 words or less
 purpose: []
