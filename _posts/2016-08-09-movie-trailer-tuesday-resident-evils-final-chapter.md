@@ -23,8 +23,8 @@ description: >-
   Now, she must return to where the nightmare began. It will be great to see
   what this chapter brings to the saga, and watch Jovovich kick-ass again. The
   film will be released on January 2017.
-datePublished: '2016-08-17T19:24:28.417Z'
-dateModified: '2016-08-17T19:21:36.564Z'
+datePublished: '2016-08-17T19:25:58.147Z'
+dateModified: '2016-08-17T19:25:57.629Z'
 sourcePath: _posts/2016-08-09-movie-trailer-tuesday-resident-evils-final-chapter.md
 related: []
 author:
@@ -69,11 +69,7 @@ app_links:
     namespace: google
     type: ios
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 starred: false
 url: movie-trailer-tuesday-resident-evils-final-chapter/index.html
 _context: 'http://schema.org'
