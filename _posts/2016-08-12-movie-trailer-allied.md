@@ -1,6 +1,7 @@
 ---
-datePublished: '2016-08-17T19:11:34.544Z'
+datePublished: '2016-08-17T19:12:26.689Z'
 sourcePath: _posts/2016-08-12-movie-trailer-allied.md
+hasPage: true
 keywords:
   - paramount
   - '2016'
@@ -16,7 +17,7 @@ related: []
 author:
   - name: Image courtesy of Paramount Pictures
 via: {}
-dateModified: '2016-08-17T19:11:33.932Z'
+dateModified: '2016-08-17T19:12:25.965Z'
 title: 'Movie Trailer: ‘Allied’'
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=HSCQWX-pUSg&feature=applinks'
@@ -61,7 +62,6 @@ description: >-
   Brad Pitt and Marion Cortillard in ‘Allied’. Check out the trailer, and ask
   yourself: Is this a game? A test?
 inLanguage: en
-hasPage: true
 starred: false
 url: movie-trailer-allied/index.html
 _context: 'http://schema.org'
