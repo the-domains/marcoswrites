@@ -1,6 +1,10 @@
 ---
-datePublished: '2016-07-28T18:19:23.930Z'
+datePublished: '2016-08-17T18:56:57.399Z'
+sourcePath: _posts/2016-07-28-movie-trailer-the-great-wall.md
+inFeed: true
 isBasedOnUrl: 'https://www.youtube.com/watch?v=6SKI9rgqFck'
+authors: []
+hasPage: false
 keywords:
   - pictures
   - duration
@@ -15,7 +19,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-07-28T18:18:18.530Z'
+dateModified: '2016-08-17T18:56:56.608Z'
 title: 'Movie Trailer: ‘The Great Wall’'
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=6SKI9rgqFck&feature=applinks'
@@ -62,11 +66,8 @@ description: >-
   Check out the trailer for a sneak peek into the magnificent film shot entirely
   in China.
 inLanguage: en
-starred: false
-sourcePath: _posts/2016-07-28-movie-trailer-the-great-wall.md
-inFeed: true
-hasPage: false
 inNav: false
+starred: false
 _context: 'http://schema.org'
 _type: VideoObject
 
@@ -76,4 +77,4 @@ _type: VideoObject
 
 Matt Damon stars on a new chapter of 'Bourne' opening this weekend. The multi-talented actor will take on monsters (or dragons?) in director's Zhang Yimou ('Hero', 'House of Flying Daggers') action-thriller 'The Great Wall'. Check out the trailer for a sneak peek into the magnificent film shot entirely in China.
 
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F6SKI9rgqFck%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6SKI9rgqFck&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F6SKI9rgqFck%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/6SKI9rgqFck" frameborder="0" allowfullscreen></iframe>
