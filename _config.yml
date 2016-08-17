@@ -31,6 +31,9 @@ navigation:
   - name: Movie Trailers
     id: 46ac2c45-0e78-4291-b39d-6cbc2b974474
     type: content
+  - name: 'Movie Trailer Tuesday: Resident Evil’s Final Chapter'
+    id: b20888c9-7234-4f80-b9bc-46890073890d
+    type: content
 favicon: null
 title: Marcos Writes
 description: Movie reviews (and news) in 500 words or less
