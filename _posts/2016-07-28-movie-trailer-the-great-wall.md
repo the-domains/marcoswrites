@@ -1,10 +1,9 @@
 ---
-datePublished: '2016-08-17T18:56:57.399Z'
+datePublished: '2016-08-17T19:14:12.395Z'
 sourcePath: _posts/2016-07-28-movie-trailer-the-great-wall.md
 inFeed: true
-isBasedOnUrl: 'https://www.youtube.com/watch?v=6SKI9rgqFck'
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - pictures
   - duration
@@ -19,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-17T18:56:56.608Z'
+dateModified: '2016-08-17T19:14:11.880Z'
 title: 'Movie Trailer: ‘The Great Wall’'
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=6SKI9rgqFck&feature=applinks'
@@ -68,6 +67,7 @@ description: >-
 inLanguage: en
 inNav: false
 starred: false
+url: movie-trailer-the-great-wall/index.html
 _context: 'http://schema.org'
 _type: VideoObject
 
