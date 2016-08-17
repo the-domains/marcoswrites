@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-07-18T19:39:03.884Z'
+datePublished: '2016-08-17T19:03:11.499Z'
+sourcePath: _posts/2016-07-18-movie-trailer-the-girl-on-the-train.md
 isBasedOnUrl: 'http://www.thegirlonthetrainmovie.com/'
 keywords:
   - blunt
@@ -14,7 +15,8 @@ keywords:
   - emily
 related: []
 author: []
-dateModified: '2016-07-18T19:36:20.689Z'
+via: {}
+dateModified: '2016-08-17T19:03:11.074Z'
 title: 'Movie Trailer: ‘The Girl on the Train’'
 app_links: []
 publisher:
@@ -30,7 +32,6 @@ description: >-
   the official site. Beyond creepy.
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-07-18-movie-trailer-the-girl-on-the-train.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -42,4 +43,4 @@ _type: MediaObject
 
 Everyone loves Emily Blunt. If you don't, then something is wrong with you. Her latest role in 'The Girl on the Train' is far from any of the previous cheeky, uplifting characters. In the film, Rachel Watson (Blunt) ponders about her life from a skewed perspective. Check out the latest trailer released on the official site. Beyond creepy.
 
-<article style=""><img src="http://www.thegirlonthetrainmovie.com/images/share.jpg" /><h1>The Girl on the Train | Movie Site | October 7, 2016</h1><p>Emily Blunt, Rebecca Ferguson, Justin Theroux, Haley Bennett, Luke Evans &amp; Allison Janney star in The Girl on the Train. Watch the trailer now! In theaters October 7, 2016.</p></article>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/y5yk-HGqKmM" frameborder="0" allowfullscreen></iframe>
