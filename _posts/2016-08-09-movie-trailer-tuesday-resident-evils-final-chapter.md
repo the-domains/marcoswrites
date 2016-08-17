@@ -1,7 +1,8 @@
 ---
-datePublished: '2016-08-17T18:55:29.873Z'
-sourcePath: _posts/2016-08-09-movie-trailer-tuesday-resident-evils-final-chapter.md
-isBasedOnUrl: 'https://www.youtube.com/watch?v=jbtmW3ydOkU'
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
 keywords:
   - trailers
   - duration
@@ -13,11 +14,22 @@ keywords:
   - evil
   - pictures
   - theaters
+description: >-
+  Based on Capcom’s hugely popular video game series comes the final installment
+  in the most successful video game film franchise ever, which has grossed over
+  $1 billion worldwide to date. The trailer, and the story, seem to pick up
+  immediately after the events in ‘Resident Evil: Retribution’, Alice (Milla
+  Jovovich) is the only survivor of humanity’s final stand against the undead.
+  Now, she must return to where the nightmare began. It will be great to see
+  what this chapter brings to the saga, and watch Jovovich kick-ass again. The
+  film will be released on January 2017.
+datePublished: '2016-08-17T19:24:28.417Z'
+dateModified: '2016-08-17T19:21:36.564Z'
+sourcePath: _posts/2016-08-09-movie-trailer-tuesday-resident-evils-final-chapter.md
 related: []
 author:
   - name: Image Courtesy of Sony Pictures
 via: {}
-dateModified: '2016-08-17T18:55:29.184Z'
 title: 'Movie Trailer Tuesday: Resident Evil’s Final Chapter'
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=jbtmW3ydOkU&feature=applinks'
@@ -56,21 +68,14 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-publisher: {}
-description: >-
-  Based on Capcom’s hugely popular video game series comes the final installment
-  in the most successful video game film franchise ever, which has grossed over
-  $1 billion worldwide to date. The trailer, and the story, seem to pick up
-  immediately after the events in ‘Resident Evil: Retribution’, Alice (Milla
-  Jovovich) is the only survivor of humanity’s final stand against the undead.
-  Now, she must return to where the nightmare began. It will be great to see
-  what this chapter brings to the saga, and watch Jovovich kick-ass again. The
-  film will be released on January 2017.
-inLanguage: en
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: movie-trailer-tuesday-resident-evils-final-chapter/index.html
 _context: 'http://schema.org'
 _type: VideoObject
 
