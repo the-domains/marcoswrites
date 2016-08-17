@@ -1,9 +1,17 @@
 ---
+datePublished: '2016-08-17T19:44:40.714Z'
+sourcePath: _posts/2016-08-12-five-staycation-flicks-that-thrill-slash-and-kill.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
+author:
+  - name: ''
+    url: ''
+via: {}
+dateModified: '2016-08-17T19:44:40.168Z'
+title: 'Five Staycation Flicks That Thrill, Slash and Kill'
+publisher: {}
 description: >-
   Summer in NYC is often filled with outdoor events, rooftop cocktails, and BBQ
   at the park or nearby beach. But a staycation whether forced upon or to gather
@@ -14,17 +22,9 @@ description: >-
   in one simple location, where the protagonist(s) have nowhere to run – some
   ultimately escape uncertain death and their respective antagonist(s). Others
   are not so lucky.
-datePublished: '2016-08-12T20:09:53.844Z'
-dateModified: '2016-08-12T20:09:41.945Z'
-title: 'Five Staycation Flicks That Thrill, Slash and Kill'
-author:
-  - name: ''
-    url: ''
-via: {}
-authors: []
-publisher: {}
+inLanguage: null
+inNav: false
 starred: false
-sourcePath: _posts/2016-08-12-five-staycation-flicks-that-thrill-slash-and-kill.md
 url: five-staycation-flicks-that-thrill-slash-and-kill/index.html
 _type: Article
 
@@ -33,7 +33,7 @@ _type: Article
 
 Summer in NYC is often filled with outdoor events, rooftop cocktails, and BBQ at the park or nearby beach. But a staycation whether forced upon or to gather one's energy is meant to happen at some point or another. If binge-watching the latest Netflix series is not your cup-of-tea then I have five films that will scare and excite the mellow hours in your humble abode (while in bed or the couch). In no particular order, the stories herein take place inside, or in one simple location, where the protagonist(s) have nowhere to run -- some ultimately escape uncertain death and their respective antagonist(s). Others are not so lucky.
 
-'[Dial M for Murder][0]' (1954) is a classic masterpiece. [Alfred Hitchcock][1] takes on this detective story surrounding an ex-tennis player who is married to a wealthy socialite. [Grace Kelly][2] is the-sad-socialite torn between true love and her deceitful husband. He ultimately plans her murder. I'm not significantly giving away the premise here, as the audience is privy to the information from the start, but the characters and melodrama build the suspense throughout. Leave Hitchcock genius camera movement and lightning style to fashion a deadly attack that will have you gasping for air -- literally. 
+'[Dial M for Murder][0]' (1954) is a classic masterpiece. [Alfred Hitchcock][1] takes on this detective story surrounding an ex-tennis player who is married to a wealthy socialite. [Grace Kelly][2] is the-sad-socialite torn between true love and her deceitful husband. He ultimately plans her murder. I'm not significantly giving away the premise here, as the audience is privy to the information from the start, but the characters and melodrama build the suspense throughout. Leave Hitchcock genius camera movement and lightning style to fashion a deadly attack that will have you gasping for air -- literally.
 
 What would you do if you knew the immediate threat was coming from inside the house? That is the setting for '[When a Stranger Calls][3]', not the cult classic, but the 2006 remake. Critics and naysayers might not have been kind to the film, but after grossing over $65 million, this little slasher flick will have you turn the ringer off your phone (or at least on silent). The story follows Jill ([Camilla Belle][4]) who is having one of those teenage angst episode, and like most has used all of her cellphone minutes (texting was not big in 2006, I think). In order to pay the bill, she takes on a babysitting job for a wealthy family in town. Never mind that a recent murder of a babysitter, on the other side of town, remains unresolved. The setting is perfect for a flick that embodies the classic tricks of the genre: shadows, noises, and a perfectly manicured house. Oh, and a string of phone calls that at first tickles Jill's fancy but ultimately reveal a deadly peril.
 
@@ -45,9 +45,7 @@ Next is '[All the Boys Love Mandy Lane][13]' starring [Amber Heard][14] ('Friday
 
 Well, here are the five films that are set to thrill your own incarceration (at home of course!) The films are noteworthy due to the elements within the production too. Renowned directors, producers and actors are part of the tragic tale -- which features startling acting from their respective leading women. All of the films are available to stream on iTunes, Amazon Prime, YouTube, Vudu, MGo and Xfinity as well as other popular online and cable service providers.
 
-__
-
-_Writer's Note: The film was compiled using the [Reelgood][15] app, available for both iPhone and Android. Check out the film selection online and start watching now. Prices are set by each provider and not affiliated with this site. _
+_Writer's Note: The film was compiled using the [Reelgood][15] app, available for both iPhone and Android. Check out the film selection online and start watching now. Prices are set by each provider and not affiliated with this site._
 
 _July 12, 2016\._
 
