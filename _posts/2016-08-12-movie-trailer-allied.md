@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-17T19:09:54.765Z'
+datePublished: '2016-08-17T19:11:34.544Z'
 sourcePath: _posts/2016-08-12-movie-trailer-allied.md
 keywords:
   - paramount
@@ -16,7 +16,7 @@ related: []
 author:
   - name: Image courtesy of Paramount Pictures
 via: {}
-dateModified: '2016-08-17T19:09:54.488Z'
+dateModified: '2016-08-17T19:11:33.932Z'
 title: 'Movie Trailer: ‘Allied’'
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=HSCQWX-pUSg&feature=applinks'
