@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-16T17:11:56.365Z'
+datePublished: '2016-08-17T19:18:44.021Z'
 sourcePath: _posts/2016-08-16-movie-trailer-tuesday-arrival.md
 author:
   - name: Image courtesy of Paramount Pictures
 via: {}
-dateModified: '2016-08-16T17:11:54.573Z'
+dateModified: '2016-08-17T19:18:43.561Z'
 title: 'Movie Trailer Tuesday: ‘Arrival’'
 publisher: {}
 description: >-
