@@ -1,5 +1,7 @@
 ---
-datePublished: '2016-06-17T15:27:57.202Z'
+datePublished: '2016-08-17T19:08:12.249Z'
+sourcePath: >-
+  _posts/2016-06-17-the-neon-demon-or-official-trailer-2-2016-elle-fanning-nic.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=wBMps5TFxs4'
 keywords:
   - trailer
@@ -17,8 +19,9 @@ author:
   - name: moviemaniacsDE
     url: 'https://www.youtube.com/user/MovieManiacsDE'
     avatar: {}
-dateModified: '2016-06-17T15:27:43.554Z'
-title: ''
+via: {}
+dateModified: '2016-08-17T19:08:11.742Z'
+title: 'Movie Trailer: ‘Neon Demon’'
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=wBMps5TFxs4&feature=applinks'
     type: ios
@@ -57,15 +60,10 @@ app_links:
     namespace: google
     type: ios
 publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+  name: Image courtesy of Amazon Studios
 description: A scene from "The Neon Demon" - Opening June 24
 inLanguage: en
 starred: false
-sourcePath: >-
-  _posts/2016-06-17-the-neon-demon-or-official-trailer-2-2016-elle-fanning-nic.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -73,6 +71,7 @@ _context: 'http://schema.org'
 _type: VideoObject
 
 ---
+# Movie Trailer: 'Neon Demon'
 ![A scene from "The Neon Demon" - Opening June 24](https://the-grid-user-content.s3-us-west-2.amazonaws.com/175e85d4-56cb-41fd-94c5-b5a0c1537ef7.jpg)
 
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FwBMps5TFxs4%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwBMps5TFxs4&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FwBMps5TFxs4%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/cipOTUO0CmU" frameborder="0" allowfullscreen></iframe>
