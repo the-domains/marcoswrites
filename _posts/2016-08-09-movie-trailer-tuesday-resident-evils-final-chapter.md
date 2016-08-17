@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-09T21:22:20.971Z'
+datePublished: '2016-08-17T18:55:29.873Z'
+sourcePath: _posts/2016-08-09-movie-trailer-tuesday-resident-evils-final-chapter.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=jbtmW3ydOkU'
 keywords:
   - trailers
@@ -16,7 +17,7 @@ related: []
 author:
   - name: Image Courtesy of Sony Pictures
 via: {}
-dateModified: '2016-08-09T21:22:01.642Z'
+dateModified: '2016-08-17T18:55:29.184Z'
 title: 'Movie Trailer Tuesday: Resident Evil’s Final Chapter'
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=jbtmW3ydOkU&feature=applinks'
@@ -67,7 +68,6 @@ description: >-
   film will be released on January 2017.
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-09-movie-trailer-tuesday-resident-evils-final-chapter.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -80,6 +80,4 @@ _type: VideoObject
 
 Based on Capcom's hugely popular video game series comes the final installment in the most successful video game film franchise ever, which has grossed over $1 billion worldwide to date. The trailer, and the story, seem to pick up immediately after the events in 'Resident Evil: Retribution', Alice (Milla Jovovich) is the only survivor of humanity's final stand against the undead. Now, she must return to where the nightmare began. It will be great to see what this chapter brings to the saga, and watch Jovovich kick-ass again. The film will be released on January 2017\.
 
-Check out the YouTube trailer [here][0]
-
-[0]: https://www.youtube.com/watch?v=jbtmW3ydOkU
+    <iframe width="420" height="315" src="https://www.youtube.com/embed/jbtmW3ydOkU" frameborder="0" allowfullscreen></iframe>
