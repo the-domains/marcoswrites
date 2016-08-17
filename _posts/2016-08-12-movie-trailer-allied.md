@@ -1,7 +1,7 @@
 ---
-datePublished: '2016-08-17T19:12:26.689Z'
+datePublished: '2016-08-17T18:50:45.179Z'
 sourcePath: _posts/2016-08-12-movie-trailer-allied.md
-hasPage: true
+isBasedOnUrl: 'https://www.youtube.com/watch?v=HSCQWX-pUSg&feature=youtu.be'
 keywords:
   - paramount
   - '2016'
@@ -17,7 +17,7 @@ related: []
 author:
   - name: Image courtesy of Paramount Pictures
 via: {}
-dateModified: '2016-08-17T19:12:25.965Z'
+dateModified: '2016-08-17T18:50:32.542Z'
 title: 'Movie Trailer: ‘Allied’'
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=HSCQWX-pUSg&feature=applinks'
@@ -63,7 +63,9 @@ description: >-
   yourself: Is this a game? A test?
 inLanguage: en
 starred: false
-url: movie-trailer-allied/index.html
+inFeed: true
+hasPage: false
+inNav: false
 _context: 'http://schema.org'
 _type: VideoObject
 
