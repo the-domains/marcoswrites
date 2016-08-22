@@ -1,14 +1,15 @@
 ---
-datePublished: '2016-08-21T22:28:51.608Z'
+datePublished: '2016-08-21T23:32:33.690Z'
 sourcePath: _posts/2016-07-01-the-legend-of-tarzan-tries-to-rein-action-and-story.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
-author: []
+author:
+  - name: A scene from 'Tarzan' | Image courtesy of Warner Bros.
 via: {}
-dateModified: '2016-08-21T22:28:51.270Z'
-title: Tarzan Tries to Reign in Action in the Jungle
+dateModified: '2016-08-21T23:32:33.305Z'
+title: ‘Tarzan’ Tries to Reign Action
 publisher: {}
 description: >-
   ‘The Legend of Tarzan’ swings into theaters this weekend meeting high
@@ -27,7 +28,9 @@ _type: Article
 
 ---
 ### Tarzan Tries to Reign in Action in the Jungle
-![A scene from 'The Legend of Tarzan'. Image courtesy of Warner Bros. Pictures](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d63d8156-013a-4267-a147-0a521e3f1774.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d63d8156-013a-4267-a147-0a521e3f1774.jpg)
+
+# 'Tarzan' Tries to Reign Action
 
 '_[The Legend of Tarzan][0]_' swings into theaters this weekend meeting high expectations for the film and the sluggish box office season. If the movie earns its production budget stateside than that would be a Hollywood miracle.**David Yates **direction and innovative story seem like a perfect combination for the holiday weekend. After all, the man behind a few renowned _Harry Potter _film chapters should be able to deliver an entertaining and brand new adventure. The special effects take care of the world around Tarzan, but the action is mostly sluggish from beginning to end.
 
