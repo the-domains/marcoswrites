@@ -1,23 +1,24 @@
 ---
+datePublished: '2016-08-22T00:00:29.653Z'
+sourcePath: _posts/2016-06-15-warcraft-delivers-so-so-fantasy.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
+author:
+  - name: ''
+    url: ''
+dateModified: '2016-08-22T00:00:29.237Z'
+title: '"Warcraft" delivers so-so fantasy'
+publisher: {}
 description: >-
   Hollywood is trying to desperately fill the void that the “Lord of The Rings"
   franchise and the "Harry Potter" series left behind. Legendary Pictures
   partners with Blizzard Entertainment to bring a fantasy film based on a 1994
   video game.
-datePublished: '2016-06-29T17:04:51.082Z'
-dateModified: '2016-06-29T17:04:50.445Z'
-title: '"Warcraft" delivers so-so fantasy'
-author:
-  - name: ''
-    url: ''
-sourcePath: _posts/2016-06-15-warcraft-delivers-so-so-fantasy.md
-authors: []
-publisher: null
+inLanguage: null
+inNav: false
+via: {}
 starred: false
 url: warcraft-delivers-so-so-fantasy/index.html
 _type: Article
