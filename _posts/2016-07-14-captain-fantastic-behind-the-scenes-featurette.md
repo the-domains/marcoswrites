@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-07-14T20:27:43.867Z'
+datePublished: '2016-08-21T23:53:03.516Z'
+sourcePath: _posts/2016-07-14-captain-fantastic-behind-the-scenes-featurette.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=t2BhOhYwBtk'
 keywords:
   - fantastic
@@ -17,8 +18,9 @@ author:
   - name: Bleecker Street
     url: 'https://www.youtube.com/user/BleeckerStFilms'
     avatar: {}
-dateModified: '2016-07-14T20:27:27.326Z'
-title: '‘Captain Fantastic’: Behind-the-Scenes Featurette'
+via: {}
+dateModified: '2016-08-21T23:53:02.741Z'
+title: 'BTS: ‘Captain Fantastic’ Featurette'
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=t2BhOhYwBtk&feature=applinks'
     type: ios
@@ -61,10 +63,13 @@ publisher:
   name: YouTube
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
-description: 'July 14, 2016'
+description: >-
+  Go behind-the-scenes with Viggo Mortensen and director Matt Ross about the
+  story of ‘Captain Fantastic’. Festival De Cannes Official Selection, and
+  winner of the Directing Prize in the Un Certain Regard category, makes this
+  rare-indie gem a must-see film this summer. Now playing in selected cities.
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-07-14-captain-fantastic-behind-the-scenes-featurette.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -72,10 +77,7 @@ _context: 'http://schema.org'
 _type: VideoObject
 
 ---
-# 'Captain Fantastic': Behind-the-Scenes Featurette
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9aff9f0-9d9c-46c4-9ba9-e356618ec24e.jpg)
-
-_July 14, 2016_
+# BTS: 'Captain Fantastic' Featurette
 
 Go behind-the-scenes with Viggo Mortensen and director Matt Ross about the story of 'Captain Fantastic'. Festival De Cannes Official Selection, and winner of the Directing Prize in the Un Certain Regard category, makes this rare-indie gem a must-see film this summer. Now playing in selected cities.
 
