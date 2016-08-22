@@ -1,24 +1,28 @@
 ---
-datePublished: '2016-08-21T23:29:50.129Z'
-sourcePath: _posts/2016-07-22-a-spine-chilling-lights-out.md
 inFeed: true
-authors: []
 hasPage: true
+inNav: false
+inLanguage: null
 keywords: []
-author:
-  - name: ''
-    url: ''
-via: {}
-dateModified: '2016-08-21T23:29:49.611Z'
-title: A Spine-Chilling ‘Lights Out’
-publisher: {}
 description: >-
   Director David F. Sandberg frights with his chilling feature debut 'Lights
   Out' based on his award winning short. If you are afraid of the dark, this
   horror flick will be a good reminder as to why one should always double-check
   lurking shadows – whether it is an optical trick or not.
-inLanguage: null
-inNav: false
+datePublished: '2016-08-21T23:36:29.832Z'
+dateModified: '2016-08-21T23:34:23.400Z'
+title: A Spine-Chilling ‘Lights Out’
+author:
+  - name: ''
+    url: ''
+via: {}
+sourcePath: _posts/2016-07-22-a-spine-chilling-lights-out.md
+authors: []
+publisher:
+  name: ''
+  domain: null
+  url: ''
+  favicon: null
 starred: false
 url: a-spine-chilling-lights-out/index.html
 _type: Article
