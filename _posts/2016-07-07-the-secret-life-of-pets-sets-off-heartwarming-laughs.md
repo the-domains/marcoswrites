@@ -1,25 +1,29 @@
 ---
-datePublished: '2016-08-21T23:57:36.331Z'
-sourcePath: _posts/2016-07-07-the-secret-life-of-pets-sets-off-heartwarming-laughs.md
 inFeed: true
-authors: []
 hasPage: true
+inNav: false
+inLanguage: null
 keywords: []
-author:
-  - name: ''
-    url: ''
-via: {}
-dateModified: '2016-08-21T23:57:35.885Z'
-title: ‘The Secrets Life of Pets’ Sets Off Heartwarming Laughs
-publisher: {}
 description: >-
   Watch out Dory, Max and company stroll into theaters with witty repartee and
   visual appeal in 'The Secret Life of Pets'. The fifth installment of the
   Illumination-Universal collaboration proves that animated films continue to
   infuse the box office with marvelous characters and adventures that satisfy
   kids and adults alike.
-inLanguage: null
-inNav: false
+datePublished: '2016-08-22T00:05:29.194Z'
+dateModified: '2016-08-22T00:04:45.380Z'
+title: ‘The Secrets Life of Pets’ Sets Off Heartwarming Laughs
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-07-07-the-secret-life-of-pets-sets-off-heartwarming-laughs.md
+via: {}
+authors: []
+publisher:
+  name: ''
+  domain: null
+  url: ''
+  favicon: null
 starred: false
 url: the-secret-life-of-pets-sets-off-heartwarming-laughs/index.html
 _type: Article
