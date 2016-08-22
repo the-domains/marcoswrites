@@ -1,9 +1,17 @@
 ---
+datePublished: '2016-08-21T22:54:10.191Z'
+sourcePath: _posts/2016-08-18-humor-sells-in-war-dogs.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
+author:
+  - name: Image courtesy of Warner Bros.
+    url: ''
+via: {}
+dateModified: '2016-08-21T22:54:09.858Z'
+title: Humor Sells in ‘War Dogs’
+publisher: {}
 description: >-
   Director Todd Phillips from ‘The Hangover’ trilogy brings real-world events
   into his new feature film ‘War Dogs’. The story could essentially be a
@@ -14,24 +22,15 @@ description: >-
   times. You and I see an American soldier defending our liberties overseas, but
   Packouz sees dollar signs and the unsurmountable amount of money spent to fund
   a war.
-datePublished: '2016-08-18T15:26:56.611Z'
-dateModified: '2016-08-18T15:26:06.893Z'
-title: Humor Sells in 'War Dogs'
-author:
-  - name: ''
-    url: ''
-via: {}
-authors: []
-publisher:
-  name: ''
-  url: ''
+inLanguage: null
+inNav: false
 starred: true
-sourcePath: _posts/2016-08-18-humor-sells-in-war-dogs.md
 url: humor-sells-in-war-dogs/index.html
 _type: Article
 
 ---
-![Image courtesy of Warner Bros.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/55b266e2-0f66-44b4-9604-188c507c3699.jpg)
+### Humor Sells in 'War Dogs'
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/55b266e2-0f66-44b4-9604-188c507c3699.jpg)
 
 Director **Todd Phillips** from 'The Hangover' trilogy brings real-world events into his new feature film '[War Dogs][0]'. The story could essentially be a critical take on the distressing effects of the Afghan war in the U.S. economy -- but Phillips and company turn the topic on its head creating a light-hearted comedy. David Packouz (**[Miles Teller][1]**), the narrator in the story, opens the film with a different perspective than most people have when analyzing war times. You and I see an American soldier defending our liberties overseas, but Packouz sees dollar signs and the unsurmountable amount of money spent to fund a war.
 
