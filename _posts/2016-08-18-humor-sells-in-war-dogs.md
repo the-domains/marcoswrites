@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T23:13:40.218Z'
+datePublished: '2016-08-21T23:15:24.696Z'
 sourcePath: _posts/2016-08-18-humor-sells-in-war-dogs.md
 inFeed: true
 authors: []
@@ -9,8 +9,8 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-21T23:13:39.862Z'
-title: ''
+dateModified: '2016-08-21T23:15:24.301Z'
+title: Humor Sells in ‘War Dogs’
 publisher: {}
 description: >-
   Director Todd Phillips from ‘The Hangover’ trilogy brings real-world events
@@ -30,6 +30,8 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/55b266e2-0f66-44b4-9604-188c507c3699.jpg)
+
+# Humor Sells in 'War Dogs'
 
 Director **Todd Phillips** from 'The Hangover' trilogy brings real-world events into his new feature film '[War Dogs][0]'. The story could essentially be a critical take on the distressing effects of the Afghan war in the U.S. economy -- but Phillips and company turn the topic on its head creating a light-hearted comedy. David Packouz (**[Miles Teller][1]**), the narrator in the story, opens the film with a different perspective than most people have when analyzing war times. You and I see an American soldier defending our liberties overseas, but Packouz sees dollar signs and the unsurmountable amount of money spent to fund a war.
 
