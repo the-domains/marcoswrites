@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-21T22:55:34.201Z'
+datePublished: '2016-08-21T23:48:58.746Z'
 sourcePath: _posts/2016-07-08-parenting-matters-in-captain-fantastic.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author:
-  - name: Image Courtesy of Bleecker Street FIlms
+  - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-21T22:55:33.677Z'
+dateModified: '2016-08-21T23:48:58.235Z'
 title: Parenting Matters in ‘Captain Fantastic’
 publisher: {}
 description: >-
@@ -25,8 +25,9 @@ url: parenting-matters-in-captain-fantastic/index.html
 _type: Article
 
 ---
-### Parenting Matters in 'Captain Fantastic'
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/43b346ca348ec823d3edaafa9767401b/croprotate.jpg?cropheight=1734&cropwidth=2600&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F8920e59d-b80f-4705-baa8-d4e5a53c43c3.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6de3e456f3a41e6a0e4ab70dcac5a34382f6b255.jpg)
+
+# Parenting Matters in 'Captain Fantastic'
 
 What is good parenting? That is the question that **Matt Ross** ('28 Rooms') offers the audience in '[Captain Fantastic][0]' chairing as both writer and director in the film. There might be many answers to the question -- but one thing is for sure the story is a journey to many possibilities. Ultimately, it is up to the viewer to decide what makes for good or bad parental guidance.
 
