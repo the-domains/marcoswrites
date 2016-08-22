@@ -27,10 +27,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Movie Trailers
-    id: 46ac2c45-0e78-4291-b39d-6cbc2b974474
-    type: content
 favicon: null
 title: Marcos Writes
 description: Movie reviews in 500 words or less
