@@ -1,17 +1,9 @@
 ---
-datePublished: '2016-08-21T22:54:10.191Z'
-sourcePath: _posts/2016-08-18-humor-sells-in-war-dogs.md
 inFeed: true
-authors: []
 hasPage: true
+inNav: false
+inLanguage: null
 keywords: []
-author:
-  - name: Image courtesy of Warner Bros.
-    url: ''
-via: {}
-dateModified: '2016-08-21T22:54:09.858Z'
-title: Humor Sells in ‘War Dogs’
-publisher: {}
 description: >-
   Director Todd Phillips from ‘The Hangover’ trilogy brings real-world events
   into his new feature film ‘War Dogs’. The story could essentially be a
@@ -22,8 +14,20 @@ description: >-
   times. You and I see an American soldier defending our liberties overseas, but
   Packouz sees dollar signs and the unsurmountable amount of money spent to fund
   a war.
-inLanguage: null
-inNav: false
+datePublished: '2016-08-21T23:11:03.743Z'
+dateModified: '2016-08-21T23:11:01.081Z'
+sourcePath: _posts/2016-08-18-humor-sells-in-war-dogs.md
+author:
+  - name: ''
+    url: ''
+via: {}
+title: Humor Sells in ‘War Dogs’
+authors: []
+publisher:
+  name: ''
+  domain: null
+  url: ''
+  favicon: null
 starred: true
 url: humor-sells-in-war-dogs/index.html
 _type: Article
@@ -34,7 +38,7 @@ _type: Article
 
 Director **Todd Phillips** from 'The Hangover' trilogy brings real-world events into his new feature film '[War Dogs][0]'. The story could essentially be a critical take on the distressing effects of the Afghan war in the U.S. economy -- but Phillips and company turn the topic on its head creating a light-hearted comedy. David Packouz (**[Miles Teller][1]**), the narrator in the story, opens the film with a different perspective than most people have when analyzing war times. You and I see an American soldier defending our liberties overseas, but Packouz sees dollar signs and the unsurmountable amount of money spent to fund a war.
 
-The plot is based on Guy Lawson's _Rolling Stone_[article][2]. Phillips, with Stephen Chin and Jason Smilovic, add some fictional ideas here and there to dramatize or to heighten a humor-driven vehicle. At the heart of it, the narrative is about a couple of underdogs who just want a piece of the money pie the government was throwing at the war in the early 2000's. Efrain Diveroli (**[Jonah Hill][3]**) runs a shady company out of Miami called AEY. He is an arms-dealer by nature, and stops at nothing to land contracts or information that would get him the most money. Enter, Packouz, a childhood friend who is unhappy as a masseuse, and suddenly expecting a child. Diveroli convinces Packouz to join him as his partner in order to land government contracts and make a killing on supplying the war with guns -- a pun that is much intended in the film.
+The plot is based on Guy Lawson's _Rolling Stone _[article][2]. Phillips, with Stephen Chin and Jason Smilovic, add some fictional ideas here and there to dramatize or to heighten a humor-driven vehicle. At the heart of it, the narrative is about a couple of underdogs who just want a piece of the money pie the government was throwing at the war in the early 2000's. Efrain Diveroli (**[Jonah Hill][3]**) runs a shady company out of Miami called AEY. He is an arms-dealer by nature, and stops at nothing to land contracts or information that would get him the most money. Enter, Packouz, a childhood friend who is unhappy as a masseuse, and suddenly expecting a child. Diveroli convinces Packouz to join him as his partner in order to land government contracts and make a killing on supplying the war with guns -- a pun that is much intended in the film.
 
 'War Dogs' is definitely a buddy comedy, and Johan Hill shines throughout the film as a man who is both devious and calculating. He definitely gets the better dialogue too, and walks that fine-line being overly obnoxious and alluring with ease as Diveroli bulldozes through every situation. At one point, he believes that repackaging gun ammunition is not illegal, but as simple as ripping the tag out of a raggedy old towel. In the flip side, Packouz is aware of every shady decision that AEY makes, and as the second in command tries hard to abide by the rules -- even though there is no rulebook to follow. They are the best partners ever when thinking alike to get that multi-million dollar prize. Ultimately, lines are crossed and the friendship, just as the company, is brought to an end. The aftermath involves the FBI, and how the Pentagon and the Defense Department contracts are really structured. The entire cast shines in their respective roles, including **[Bradley Cooper][4]** who brings in a distinctive take as a mercenary.
 
