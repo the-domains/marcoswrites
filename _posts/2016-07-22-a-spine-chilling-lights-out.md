@@ -9,17 +9,21 @@ description: >-
   Out' based on his award winning short. If you are afraid of the dark, this
   horror flick will be a good reminder as to why one should always double-check
   lurking shadows – whether it is an optical trick or not.
-datePublished: '2016-07-22T17:59:49.150Z'
-dateModified: '2016-07-22T17:59:38.539Z'
+datePublished: '2016-08-21T23:28:27.002Z'
+dateModified: '2016-08-21T23:27:33.630Z'
 title: A Spine-Chilling 'Lights Out'
 author:
   - name: ''
     url: ''
 via: {}
-authors: []
-publisher: {}
-starred: true
 sourcePath: _posts/2016-07-22-a-spine-chilling-lights-out.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 url: a-spine-chilling-lights-out/index.html
 _type: Article
 
