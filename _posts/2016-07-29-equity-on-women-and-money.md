@@ -4,29 +4,34 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "Writer Amy Fox delivers\na strong punch in 'Equity', in a story co-written by Sarah Megan Thomas and\nAlyssa Reiner, where women are behind the movers-and-shakers of Wall Street. Unlike others films that take on the idea of corruption and money laundering\nschemes, the film focuses in a group of women that are as ambitious as any male\ncounterpart in the same legion.\_"
-datePublished: '2016-07-29T19:37:41.947Z'
-dateModified: '2016-07-29T19:37:30.297Z'
+description: >-
+  Writer Amy Fox delivers a strong punch in 'Equity', in a story co-written by
+  Sarah Megan Thomas and Alyssa Reiner, where women are behind the
+  movers-and-shakers of Wall Street. Unlike others films that take on the idea
+  of corruption and money laundering schemes, the film focuses in a group of
+  women that are as ambitious as any male counterpart in the same legion. 
+datePublished: '2016-08-21T23:25:05.236Z'
+dateModified: '2016-08-21T23:24:15.117Z'
 title: '''Equity'' on Women and Money'
 author:
   - name: ''
     url: ''
 via: {}
-authors: []
-publisher: {}
-starred: true
 sourcePath: _posts/2016-07-29-equity-on-women-and-money.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: true
 url: equity-on-women-and-money/index.html
 _type: Article
 
 ---
 ![Image courtesy of Sony Pictures Classics](https://the-grid-user-content.s3-us-west-2.amazonaws.com/44ea05d5-b409-49b7-9245-d34ddb6ef318.jpg)
 
-Writer **Amy Fox** delivers
-a strong punch in '[Equity][0]', in a story co-written by Sarah Megan Thomas and
-Alyssa Reiner, where women are behind the movers-and-shakers of Wall Street. Unlike others films that take on the idea of corruption and money laundering
-schemes, the film focuses in a group of women that are as ambitious as any male
-counterpart in the same legion. 
+Writer **Amy Fox** delivers a strong punch in '[Equity][0]', in a story co-written by Sarah Megan Thomas and Alyssa Reiner, where women are behind the movers-and-shakers of Wall Street. Unlike others films that take on the idea of corruption and money laundering schemes, the film focuses in a group of women that are as ambitious as any male counterpart in the same legion. 
 
 'Equity' follows Naomi, a corporate investment banker in the brink of a deal that will either make or break her career. She has a reputation to "rub people the wrong way" mostly because of her matter-of-fact approach, and business driven persona. Of course, she makes no apologies for what has become second nature to her. In a world where the glass ceiling is obviously disparaging, it is her passion, business decisions and cold calculations that will ultimately cost her future.
 
