@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-17T19:44:40.714Z'
+datePublished: '2016-08-21T23:21:18.105Z'
 sourcePath: _posts/2016-08-12-five-staycation-flicks-that-thrill-slash-and-kill.md
 inFeed: true
 authors: []
@@ -9,19 +9,10 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-17T19:44:40.168Z'
-title: 'Five Staycation Flicks That Thrill, Slash and Kill'
+dateModified: '2016-08-21T23:21:17.824Z'
+title: 'Five Staycation Flicks that Slash, Kill and Thrill'
 publisher: {}
-description: >-
-  Summer in NYC is often filled with outdoor events, rooftop cocktails, and BBQ
-  at the park or nearby beach. But a staycation whether forced upon or to gather
-  one’s energy is meant to happen at some point or another. If binge-watching
-  the latest Netflix series is not your cup-of-tea then I have five films that
-  will scare and excite the mellow hours in your humble abode (while in bed or
-  the couch). In no particular order, the stories herein take place inside, or
-  in one simple location, where the protagonist(s) have nowhere to run – some
-  ultimately escape uncertain death and their respective antagonist(s). Others
-  are not so lucky.
+description: 7. 12. 16
 inLanguage: null
 inNav: false
 starred: false
@@ -30,6 +21,10 @@ _type: Article
 
 ---
 ![Films That Kill Boredom](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f6dd144-38b9-4a3f-a8f9-fbb65f410693.jpg)
+
+7\. 12\. 16
+
+# Five Staycation Flicks that Slash, Kill and Thrill
 
 Summer in NYC is often filled with outdoor events, rooftop cocktails, and BBQ at the park or nearby beach. But a staycation whether forced upon or to gather one's energy is meant to happen at some point or another. If binge-watching the latest Netflix series is not your cup-of-tea then I have five films that will scare and excite the mellow hours in your humble abode (while in bed or the couch). In no particular order, the stories herein take place inside, or in one simple location, where the protagonist(s) have nowhere to run -- some ultimately escape uncertain death and their respective antagonist(s). Others are not so lucky.
 
@@ -46,8 +41,6 @@ Next is '[All the Boys Love Mandy Lane][13]' starring [Amber Heard][14] ('Friday
 Well, here are the five films that are set to thrill your own incarceration (at home of course!) The films are noteworthy due to the elements within the production too. Renowned directors, producers and actors are part of the tragic tale -- which features startling acting from their respective leading women. All of the films are available to stream on iTunes, Amazon Prime, YouTube, Vudu, MGo and Xfinity as well as other popular online and cable service providers.
 
 _Writer's Note: The film was compiled using the [Reelgood][15] app, available for both iPhone and Android. Check out the film selection online and start watching now. Prices are set by each provider and not affiliated with this site._
-
-_July 12, 2016\._
 
 [0]: http://www.imdb.com/title/tt0046912/?ref_=nv_sr_1
 [1]: http://www.imdb.com/name/nm0000033/?ref_=tt_ov_dr
