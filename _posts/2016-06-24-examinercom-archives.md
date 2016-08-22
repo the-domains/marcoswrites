@@ -1,17 +1,22 @@
 ---
-datePublished: '2016-07-27T19:25:51.525Z'
+datePublished: '2016-08-21T23:39:50.386Z'
 sourcePath: _posts/2016-06-24-examinercom-archives.md
+inFeed: true
+authors: []
 hasPage: true
+keywords: []
 author: []
-dateModified: '2016-07-27T19:25:35.886Z'
+via: {}
+dateModified: '2016-08-21T23:39:50.035Z'
 title: Examiner.com Archives
-description: Check out the NY Film Examiner page
 publisher:
   name: examiner.com
-via: {}
-starred: true
+description: Check out the NY Film Examiner page
+inLanguage: null
+inNav: false
+starred: false
 url: examinercom-archives/index.html
-_type: MediaObject
+_type: Article
 
 ---
 # Examiner.com Archives
