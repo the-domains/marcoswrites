@@ -1,9 +1,17 @@
 ---
+datePublished: '2016-08-22T00:02:10.893Z'
+sourcePath: _posts/2016-08-12-five-staycation-flicks-that-thrill-slash-and-kill.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
+author:
+  - name: ''
+    url: ''
+via: {}
+dateModified: '2016-08-22T00:02:10.389Z'
+title: 'Five Staycation Flicks that Slash, Kill and Thrill'
+publisher: {}
 description: >-
   Summer in NYC is often filled with outdoor events, rooftop cocktails, and BBQ
   at the park or nearby beach. But a staycation whether forced upon or to gather
@@ -14,26 +22,14 @@ description: >-
   in one simple location, where the protagonist(s) have nowhere to run – some
   ultimately escape uncertain death and their respective antagonist(s). Others
   are not so lucky.
-datePublished: '2016-08-21T23:30:26.331Z'
-dateModified: '2016-08-21T23:22:42.120Z'
-sourcePath: _posts/2016-08-12-five-staycation-flicks-that-thrill-slash-and-kill.md
-author:
-  - name: ''
-    url: ''
-via: {}
-title: 'Five Staycation Flicks that Slash, Kill and Thrill'
-authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
+inLanguage: null
+inNav: false
 starred: false
 url: five-staycation-flicks-that-thrill-slash-and-kill/index.html
 _type: Article
 
 ---
-![Films That Kill Boredom](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f6dd144-38b9-4a3f-a8f9-fbb65f410693.jpg)
+![Films That Kill (Boredom)](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f6dd144-38b9-4a3f-a8f9-fbb65f410693.jpg)
 
 # Five Staycation Flicks that Slash, Kill and Thrill
 
