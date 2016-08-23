@@ -4,7 +4,7 @@
         <description><![CDATA[Marcos Writes]]></description>
         <link>http://marcoswrites.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 00:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 22:39:14 GMT</lastBuildDate>
         <atom:link href="http://marcoswrites.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[‘Equity’ on Women and Money]]></title>
@@ -19,6 +19,13 @@
             <link>http://marcoswrites.com/humor-sells-in-war-dogs/index.html</link>
             <guid isPermaLink="false">5c96f5fd-36ab-41dc-aec0-dff556fbf2b5</guid>
             <pubDate>Sun, 21 Aug 2016 23:15:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Movie Trailer Tuesday: ‘Sully’]]></title>
+            <description><![CDATA[<article><h1>Movie Trailer Tuesday: ‘Sully’</h1><p>From Oscar-winning director Clint Eastwood ("American Sniper," "Million Dollar Baby") comes Warner Bros. Pictures' drama "Sully," starring Oscar winner Tom Hanks ("Bridge of Spies," "Forrest Gump") as Captain Chesley "Sully" Sullenberger.  Check out the trailer, and the intense story of the Miracle on the Hudson. In theaters September 9.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3e8692caa9f9222987fea4ba62e05c1c/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FmjKEXxO2KNE%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=mjKEXxO2KNE</link>
+            <guid isPermaLink="false">68ecd162-6781-4fa4-a17b-0992fc3f5cb6</guid>
+            <pubDate>Tue, 23 Aug 2016 22:39:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trailer Treat: ‘Doctor Strange’]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=t2BhOhYwBtk</link>
             <guid isPermaLink="false">e4a3e163-7e92-4461-9818-40adf37d6b15</guid>
             <pubDate>Sun, 21 Aug 2016 23:53:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Tarzan’ Tries to Reign Action]]></title>
-            <description><![CDATA[<article><h1>‘Tarzan’ Tries to Reign Action</h1><p>‘The Legend of Tarzan’ swings into theaters this weekend meeting high expectations for the film and the sluggish box office season. If the movie earns its production budget stateside than that would be a Hollywood miracle.David Yates direction and innovative story seem like a perfect combination for the holiday weekend. After all, the man behind a few renowned Harry Potter film chapters should be able to deliver an entertaining and brand new adventure. The special effects take care of the world around Tarzan, but the action is mostly sluggish from beginning to end.</p></article>]]></description>
-            <link>http://marcoswrites.com/the-legend-of-tarzan-tries-to-rein-action-and-story/index.html</link>
-            <guid isPermaLink="false">ef7bfdbf-1f94-416c-ba0b-88dfd395d07e</guid>
-            <pubDate>Sun, 21 Aug 2016 23:50:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
