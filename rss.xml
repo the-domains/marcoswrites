@@ -4,7 +4,7 @@
         <description><![CDATA[Marcos Writes]]></description>
         <link>http://marcoswrites.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 16:49:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 00:26:19 GMT</lastBuildDate>
         <atom:link href="http://marcoswrites.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[‘Equity’ on Women and Money]]></title>
@@ -19,6 +19,13 @@
             <link>http://marcoswrites.com/humor-sells-in-war-dogs/index.html</link>
             <guid isPermaLink="false">5c96f5fd-36ab-41dc-aec0-dff556fbf2b5</guid>
             <pubDate>Sun, 21 Aug 2016 23:15:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Movie Trailer Tuesday: ‘Inferno’]]></title>
+            <description><![CDATA[<article><h1>Movie Trailer Tuesday: ‘Inferno’</h1><p>Academy Award® winner Ron Howard returns to direct the latest bestseller in Dan Brown's (Da Vinci Code) billion-dollar Robert Langdon series, 'Inferno', which finds the famous symbologist (again played by Tom Hanks) on a trail of clues tied to the great Dante himself.  The film is also being released on IMAX - which will give the viewer a breathtaking look into a new race to save the world. </p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/26161fa090b4d072e7907d303f92a724/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FCSqNqWFtCkg%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=CSqNqWFtCkg</link>
+            <guid isPermaLink="false">bb5f2228-629b-4284-a7c9-98d8eafcfe13</guid>
+            <pubDate>Thu, 01 Sep 2016 00:26:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Movie Trailer: ‘Rings’]]></title>
@@ -68,13 +75,6 @@
             <link>http://marcoswrites.com/warcraft-delivers-so-so-fantasy/index.html</link>
             <guid isPermaLink="false">7ec60686-6fe7-474e-aabe-b692097ef178</guid>
             <pubDate>Mon, 22 Aug 2016 00:00:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Spine-Chilling ‘Lights Out’]]></title>
-            <description><![CDATA[<article><h1>A Spine-Chilling ‘Lights Out’</h1><p>Director David F. Sandberg frights with his chilling feature debut 'Lights Out' based on his award winning short. If you are afraid of the dark, this horror flick will be a good reminder as to why one should always double-check lurking shadows – whether it is an optical trick or not.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/919eb975-48b7-45ca-9847-d584f61b9d38.jpg"></article>]]></description>
-            <link>http://marcoswrites.com/a-spine-chilling-lights-out/index.html</link>
-            <guid isPermaLink="false">10d06f2c-58ec-4d02-9089-32f2d3c3917e</guid>
-            <pubDate>Sun, 21 Aug 2016 23:59:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
